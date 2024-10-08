@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{I as r,T as t}from"./index.b327a1d2.js";const c={},a={class:"text-red-4 bg-primary"};function o(s,_){return r(),t("h1",a,"cart")}var i=e(c,[["render",o]]);export{i as default};

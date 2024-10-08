@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{I as r,T as t}from"./index.b327a1d2.js";const a={},s={class:"text-red-4 bg-primary"};function o(c,n){return r(),t("h1",s,"favourites")}var i=e(a,[["render",o]]);export{i as default};
